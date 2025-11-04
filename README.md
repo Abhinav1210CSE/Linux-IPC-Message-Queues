@@ -1,4 +1,3 @@
-<img width="556" height="561" alt="image" src="https://github.com/user-attachments/assets/e37f4fe6-c86f-448d-8bf3-b8c149cd39ef" /># Linux-IPC-Message-Queues
 Linux IPC-Message Queues
 
 # AIM:
